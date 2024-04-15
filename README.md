@@ -6,13 +6,17 @@ Click [here](#installing-the-plugins) for installation instructions
 
 ## Plugins
 ### RICOH Plugins
-- [360 Hunting Game](plugins/com.theta360.hunting360)
-- [Animation Auto Framing](plugins/com.theta360.animationautoframing)
-- [Automatic Face Blur BETA](plugins/com.theta360.automaticfaceblur)
-- [Continuous Shooting](plugins/com.theta360.continuousshooting)
-- [File cloud upload V2](plugins/com.theta360.clouduploadv2)
-- [HDRI](plugins/com.theta360.hdri)
-- [HDRI-X](plugins/com.theta360.hdri_x)
+- ![Z1](https://img.shields.io/badge/Z1-blue) ![V](https://img.shields.io/badge/V-green) [360 Hunting Game](plugins/com.theta360.hunting360)
+- ![Z1](https://img.shields.io/badge/Z1-blue) ![V](https://img.shields.io/badge/V-green)  [Animation Auto Framing](plugins/com.theta360.animationautoframing)
+- ![X](https://img.shields.io/badge/X-purple) ![Z1](https://img.shields.io/badge/Z1-blue) ![V](https://img.shields.io/badge/V-green) [Automatic Face Blur BETA](plugins/com.theta360.automaticfaceblur)
+
+|   | ![X](https://img.shields.io/badge/X-purple) | ![Z1](https://img.shields.io/badge/Z1-blue) | ![V](https://img.shields.io/badge/V-green) |
+|:--|:--:|:--:|:--:|
+| [Continuous Shooting](plugins/com.theta360.continuousshooting) | | ✓ | |
+| [File cloud upload V2](plugins/com.theta360.clouduploadv2)     | | ✓ | ✓ |
+| [HDRI](plugins/com.theta360.hdri) | | ✓ | ✓ |
+| [HDRI-X](plugins/com.theta360.hdri_x) | ✓ | | |
+
 - [Instant Night Snap](plugins/com.theta360.instantnightsnap)
 - [Outside-in Shooting BETA](plugins/com.theta360.around)
 - [Person Detection & Counting](plugins/com.theta360.persondetectionandcounting)
